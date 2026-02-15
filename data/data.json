@@ -28,9 +28,9 @@
       "key": "2026-03",
       "summary": {
         "entrada": 5983.13,
-        "saida": 4664,
-        "liquido": 1319.13,
-        "diff_m1": 1428.13,
+        "saida": 4739,
+        "liquido": 1244.13,
+        "diff_m1": 1353.13,
         "crescimento": null
       },
       "accounts": {
@@ -47,10 +47,10 @@
       "month": 4,
       "key": "2026-04",
       "summary": {
-        "entrada": 5823.13,
+        "entrada": 6123.13,
         "saida": 4320.1,
-        "liquido": 1503.0299999999997,
-        "diff_m1": 183.9,
+        "liquido": 1803.0299999999997,
+        "diff_m1": 558.9,
         "crescimento": null
       },
       "accounts": {
@@ -70,7 +70,7 @@
         "entrada": 5823.13,
         "saida": 4275,
         "liquido": 1548.13,
-        "diff_m1": 45.1,
+        "diff_m1": -254.9,
         "crescimento": null
       },
       "accounts": {
@@ -223,10 +223,10 @@
       }
     }
   ],
-  "generatedAt": "2026-02-15T05:59:09.125Z",
+  "generatedAt": "2026-02-15T06:25:05.304Z",
   "totals": {
-    "entrada": 57994.29999999999,
-    "saida": 36746.55,
-    "liquido": 21247.75
+    "entrada": 58294.29999999999,
+    "saida": 36821.55,
+    "liquido": 21472.75
   }
 }
