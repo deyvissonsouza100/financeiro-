@@ -34,7 +34,7 @@
         "crescimento": null
       },
       "accounts": {
-        "nubank_saida": 1472,
+        "nubank_saida": 1660,
         "santander_saida": 2133
       },
       "details": {
@@ -223,7 +223,7 @@
       }
     }
   ],
-  "generatedAt": "2026-02-18T15:09:06.010Z",
+  "generatedAt": "2026-02-18T18:03:49.672Z",
   "totals": {
     "entrada": 58294.29999999999,
     "saida": 36821.55,
